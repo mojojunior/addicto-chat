@@ -1,0 +1,77 @@
+.box {
+  background-color: #C792DF;
+  border-radius: 4px;
+
+  padding-top: 50px;
+  padding-bottom: 70px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 50px;
+  margin-top: 80px;
+ 
+}
+
+
+.f{
+  color: rgb(0, 0, 0)
+}
+.body {
+background-color: #222222
+
+}
+
+
+.nav{
+
+  background-color: #C792DF;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 50px;
+  margin-top: 80px;
+
+
+  display: flex;
+  justify-content: 50px;
+  padding: 10px 20px;
+  align-items: left;
+}
+
+.nav a {
+  color: #000000;
+  text-decoration: double;
+  margin-right: 10px;
+  font-size: 23px;
+  margin:auto;
+  padding: 5px
+}
+
+
+
+.nav img {
+  height: 50px; /* Set the desired height */
+  width: auto; /* Automatically adjust the width */
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+
+
+.my-button {
+  background-color: #4b4e6d;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.my-button:hover {
+  background-color: #23ce6b !important;
+}
+
+.my-button-container{
+
+  display:flex;
+ 
+}
